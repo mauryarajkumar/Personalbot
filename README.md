@@ -113,4 +113,14 @@ Step 2: Create a React frontend
                       1.  npx create-react-app frontend
                                                      2.  cd frontend
                                                      3.    npm start
+
+
+**ScreenShot Of The Output: **
+<img width="635" height="823" alt="image" src="https://github.com/user-attachments/assets/266f31f8-4846-4999-a73a-0e803f588fe5" />
+<img width="561" height="777" alt="image" src="https://github.com/user-attachments/assets/da956ebc-a341-422d-9b6e-312b126f55c5" />
+<img width="751" height="772" alt="image" src="https://github.com/user-attachments/assets/6bbe5145-c4c3-4e57-b971-f951deee960b" />
+
+
+
+
                    
